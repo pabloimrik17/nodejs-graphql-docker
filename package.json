@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-graphql-docker",
+  "version": "1.0.0",
+  "description": "Graphql server dockerized",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "test"
+  },
+  "author": "Pablo F. Guerra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
